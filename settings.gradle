@@ -1,0 +1,5 @@
+rootProject.name = 'multi-module'
+include 'client-module'
+include 'admin-module'
+include 'core-module'
+
